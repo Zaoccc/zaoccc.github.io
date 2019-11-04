@@ -7,12 +7,7 @@ layout: home-page
     <div class="post-card">
       <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
       </a>
-<!--音乐-->
-<div class="video_exist play_yinfu" id="audio_btn" style="display: block;z-index:999999;">
-    <div id="yinfu" class="rotate"></div>
-    <audio preload="auto" autoplay="" id="media" src="/hackerysk.github.io/88784059d21f1684510181eff232d13f.mp3" 
-      autoplay preload loop="loop"></audio>
-</div>
+
       <div class="post-card-body">
         {% for tag in post.tags %}
         <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
