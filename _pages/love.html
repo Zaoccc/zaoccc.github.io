@@ -21,14 +21,53 @@ permalink: /love/
 
 ———————————————<br>
 <div>
-<img src="https://s2.ax1x.com/2019/11/22/MTK7e1.md.png" alt="MTK7e1.png" border="0" /></a><div class="highlight"><code>
+<img src="https://s2.ax1x.com/2019/11/22/MTK7e1.md.png" alt="MTK7e1.png" border="0" /></a>
+<div class="highlight">
+<code>
 <font size="4" color="#DB7093" align="left">崔依婷李俊昊！！！</font><br>
 </code></div>
-<div class="thumbs_content">
-    <a href="javascript:void(0)" class="thumbs_button fa fa-thumbs-up" title="点赞，支持一下"> 点赞</a>
-    <a href="javascript:void(0)" class="reward_button fa fa-money" title="打赏，支持一下"> 打赏</a>
-<span class="clear"></span>
-</div>
+<div class="item"><div class="zan">赞</div></div>
+<div class="item"><div class="zan">赞</div></div>
+ 
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script>
+    $(function () {
+        $('.zan').click(function () {
+            var tag=document.createElement('span')
+            tag.style.color='green';
+            tag.style.position='absolute';
+            tag.innerHTML='+1'
+ 
+            var top=5;
+            var left=5;
+            var fontsize=12;
+            var opacity=1;
+ 
+             tag.style.fontSize=fontsize+'px';
+             tag.style.top=top+'px';
+             tag.style.left=left+'px';
+             tag.opacity=opacity;
+             $(this).append(tag);
+ 
+            var obj=setInterval(function () {
+                top-=15;
+                left+=5;
+                fontsize+=12;
+                opacity-=0.2;
+ 
+                tag.style.fontSize=fontsize+'px';
+                tag.style.top=top+'px';
+                tag.style.left=left+'px';
+                tag.opacity=opacity;
+ 
+                if(opacity<0){
+                    clearInterval(obj);
+                    tag.remove();
+                }
+                },100)
+        })
+    })
+</script>
 </div>
     </section> <!-- End About Body-->
   </div> <!-- End About Container -->
