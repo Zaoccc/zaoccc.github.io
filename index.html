@@ -18,3 +18,19 @@ layout: home-page
   </li>
   {% endfor %}
 </ol>
+<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
+  <script>
+    const gitalk = new Gitalk({
+      clientID: '88a228f7139b31216822',
+      clientSecret: 'd2c7e7c11b91d2e0f3d7ed3ed1ab1b2c08ad5591',
+      repo: 'doocs.github.io',
+      owner: 'doocs',
+      admin: ['yanglbme'],
+      number: 1,
+      distractionFreeMode: true,
+      labels: ['talk'],
+      title: 'Welcome to join the Doocs Open Source organization',
+      perPage: 15,
+    })
+  </script>
+  
