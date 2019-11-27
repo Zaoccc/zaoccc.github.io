@@ -1,28 +1,6 @@
 <head>
 
-<link rel="stylesheet" href="//unpkg.com/gitalk/dist/gitalk.css">
-<script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
-<script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
-<script>
-    const gitalk = new Gitalk({
-        // 这个需要在github上申请一个OAuth application
-        clientID: '30db52d3c52f92960810',   // GitHub Application Client ID
-        clientSecret: '63fbee92234a6412f0b8f595a4df417388680ab1',   // GitHub Application Client Secret
-        repo: 'hackerysk.github.io', // //存储你评论 issue 的 Github 仓库名
-        owner: 'hackerysk',
-        admin: ['hackerysk'],    // 这个仓库的管理员
-        distractionFreeMode: true,  // 是否添加全屏遮罩
-        id: window.location.pathname    // 页面的唯一标识，gitalk 会根据这个标识自动创建的issue的标签,我们使用页面的相对路径作为标识
-    })
-// 监听URL中hash的变化，如果发现换了一个MD文件，那么刷新页面，解决整个网站使用一个gitalk评论issues的问题。
-window.onhashchange = function (event) {
-	if (event.newURL.split('?')[0] !== event.oldURL.split('?')[0]) {
-		location.reload()
-}
-}
 
-    gitalk.render('gitalk-container');    // 渲染Gitalk评论组件
-</script>
 <script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
         <audio id="h5audio_media" height="0" width="0" loop="loop" src="http://aqqmusic.tc.qq.com/amobile.music.tc.qq.com/C400002HysVZ4TXWRZ.m4a?guid=189000787&vkey=60BFAE0038D1845DCF276CE9C12CB4EBEC1FA6B5E33F23D66F780176466C16EA929C876298EA7240EB5FD2D927048DD0FCDDDFD0E61D78E0&uin=0&fromtag=38" autoplay></audio>
         <meta charset="utf-8">
