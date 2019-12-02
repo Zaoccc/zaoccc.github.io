@@ -1,8 +1,7 @@
 <header class="main-header">
   <div class="wrapper">
     <div class="header-flex">
-    <div class="header">我在顶部</div>      <div class="menu-icon-container">
-        <span class="menu-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
+           <span class="menu-icon"><i class="fa fa-bars" aria-hidden="true"></i></span>
       </div>
       <nav class="main-nav">
         <span class="menu-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
@@ -20,33 +19,5 @@
       </div>
     </div>
   </div>
-    <img class="footer" id="gotoTop" src="https://i02piccdn.sogoucdn.com/4f3b2858eec9e2cf" alt="">
- 
-    <script>
-        function gotoTop(minHeight){
- 
-            // 定义点击返回顶部图标后向上滚动的动画
-            $("#gotoTop").click(
-                function(){$('html,body').animate({scrollTop:'0px'},'slow');
-            })
- 
-            // 获取页面的最小高度，无传入值则默认为600像素
-            minHeight? minHeight = minHeight:minHeight = 600;
- 
-            // 为窗口的scroll事件绑定处理函数
-            $(window).scroll(function(){
- 
-                // 获取窗口的滚动条的垂直滚动距离
-                var s = $(window).scrollTop();
- 
-                // 当窗口的滚动条的垂直距离大于页面的最小高度时，让返回顶部图标渐现，否则渐隐
-                if( s > minHeight){
-                    $("#gotoTop").fadeIn(500);
-                }else{
-                    $("#gotoTop").fadeOut(500);
-                };
-            });
-        };
-        gotoTop();
-    </script></header> <!-- End Header -->
+ </header> <!-- End Header -->
 
