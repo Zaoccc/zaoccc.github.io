@@ -35,6 +35,7 @@ layout: default
       </div>
     </div> <!-- End Wrapper -->
   </article>
+<div>
 {% if site.comment_gitment_repo %}
 <div id="gitmentContainer"></div>
 <link rel="stylesheet" href="https://imsun.github.io/gitment/style/default.css">
@@ -52,6 +53,7 @@ layout: default
     gitment.render('gitmentContainer')
 </script>
 {% endif %}
+</div>
   {% include search.html %}
   {% include footer.html %}
 </div>
