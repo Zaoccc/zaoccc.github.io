@@ -47,3 +47,8 @@ plugins:
 
 include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
+
+#gitment
+comment_gitment_repo: hackerysk.github.io
+comment_gitment_clientId: 30db52d3c52f92960810
+comment_gitment_clientSecret: 63fbee92234a6412f0b8f595a4df417388680ab1
