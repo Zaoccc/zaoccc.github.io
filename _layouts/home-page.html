@@ -2,54 +2,9 @@
 layout: default
 ---
 <div class="flex-container">
-  <script type="text/javascript">
-        var a_idx = 0;
-        jQuery(document).ready(function($) {
-        $("body").click(function(e) {
-        var a = new Array("⚁","⚂","⚀","⚅","⚃","☭","⚄");
-        var $i = $("<span></span>").text(a[a_idx]);
-        a_idx = (a_idx + 1) % a.length;
-        var x = e.pageX,
-        y = e.pageY;
-        $i.css({
-            "z-index": 999999999999999999999999999999999999999999999999999999999999999999999,
-            "top": y - 20,
-            "left": x,
-            "position": "absolute",
-            "font-weight": "bold",
-            "color": "rgb("+~~(255*Math.random())+","+~~(255*Math.random())+","+~~(255*Math.random())+")"
-        });
-        $("body").append($i);
-        $i.animate({
-            "top": y - 180,
-            "opacity": 0
-        },
-        1500,
-        function() {
-            $i.remove();
-        });
-    });
-});
-    var H = 0;
-    $(document).bind('mousemove touchmove',function(e) {
-        e.preventDefault();
-        var drawSize = 10;
-        var drawType = '♡';
-        var floatType = 'floatOne';
-        var xPos = e.originalEvent.pageX;
-        var yPos = e.originalEvent.pageY;
-
-        $('body').append('<div class="draw" style=" font-size:'+drawSize+'px;left:'+xPos+'px;top:'+yPos+'px;-webkit-animation:'+floatType+' .9s 1;-moz-animation:'+floatType+' .9s 1;color:#FF83FA;">'+drawType+'</div>');
-
-        $('.draw').each(function() {
-            var div = $(this);
-            setTimeout(function() {$(div).remove();},800);
-        });
-    });
-</script>
   {% include header.html %}
   <!-- 广告位1 -->
-  <a href="https://www.mclists.cn/server/rr.kuniu.net_25623.html"><p style="text-align: center;"><img src="/assets/img/headimg2.jpg width="960" height="540""/></p></a>
+  <a href="https://www.mclists.cn/server/rr.kuniu.net_25623.html"><p style="text-align: center;"><img src="/assets/img/headimg2.jpg width="960" height="540"/></p></a>
   <div class="content wrapper">
     {{ content }}
   {% include search.html %}
