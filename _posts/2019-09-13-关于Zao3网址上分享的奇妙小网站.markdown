@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  关于termux手机终端与python
-date:   2019-09-13 14:00:00 +0300
+title:  关于Zao3网址上分享的奇妙小网站
+date:   2022-02-22 14:00:00 +0300
 description: 诸君快乐！今天给各位介绍一款linux终端模拟器name>             # TERMUX［我已经测试并成功用其编辑并运行了python，这意味着它真的好用］     它可将你的手机打造成一台linux电脑     手机本就是linux内核，这款软件可让你的手机返璞归真     可以当电脑用就意味着可以当电脑编程，比Qpython什么的强大高级多了     既然像电脑那功能就不多说了     可以用pkg命令安装一个更完美的linux发行版————————————————————————[为了做一个体面人，我把失败的过程删去] # Add post description (optional)
 img: baizhu.png # Add image post (optional)
-tags: [博客, 技术, 手机终端]
+tags: [博客,技术,网站]
 author: # Add name author (optional)
 ---
 诸君快乐！
