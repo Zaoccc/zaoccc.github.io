@@ -9,6 +9,8 @@ author: # Add name author (optional)
 ---
 诸君快乐！
 
+-点击[◆这里◆][zao3-websites]，这里有2021以前的网站书签。（因为一些特殊原因，目前不再维护 ¯\ _(ツ)_/¯ ）
+
 ————————————————————————
 
  ◆ [WallHaven][wallhaven]-很棒的壁纸！
@@ -16,10 +18,15 @@ author: # Add name author (optional)
 https://wallhaven.cc
 ```
 
+ ◆ [MYFREEMP3][myfreemp3]-MYFREEMP3 Free MP3 Download
+```
+http://tools.liumingye.cn/music
+```
+
 ![termux](/assets/img/website-test.jpg)
 
 
 
 [wallhaven]: https://wallhaven.cc
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+[zao3-websites]:   https://zaosan.rthe.xyz
+[myfreemp3]: https://tools.liumingye.cn/music
