@@ -1,0 +1,132 @@
+---
+layout: post
+title:  关于Zao3网址上分享的奇妙小网站
+date:   2022-02-22 14:00:00 +0300
+description: 诸君快乐！name>             # TERMUX［---t e s tt ---］     test1 test2  yest3   ————————————————————————[为了做一个体面人，我把失败的过程删去] # Add post description (optional)
+img: website.jpg # Add image post (optional)
+tags: [博客,技术,网站]
+author: # Add name author (optional)
+---
+诸君快乐！
+name>             # TERMUX
+［---t e s t---］
+    test
+	test
+	teest
+	test
+————————————————————————
+test
+test
+test
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+test
+
+```
+:w!
+```
+test
+test
+
+```
+test
+test
+
+```
+test
+
+![termux](/assets/img/website-test.jpg)
+test
+test
+
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
