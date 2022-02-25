@@ -17,9 +17,9 @@ about-author: 这里是: ZAO SAN
 # Contact links
 email: 15731010169@163.com # Add your Email address
 phone: # Add your Phone number
-website: zaosan.github.io # Add your website, do not add http://
+website: zaoccc.github.io # Add your website, do not add http://
 linkedin: # Add your Linkedin handle
-github: zAosAn # Add your Github handle
+github:  # Add your Github handle
 twitter: '' # Add your Twitter handle
 facebook: # Add your Facebook handle
 instagram: # Add your Instagram handle
@@ -50,6 +50,6 @@ include: [_pages]
 exclude: ["node_modules", "gulpfile.js", "package.json", "yarn.lock", "package-lock.json", "assets/css/sass/"]
 
 #gitment
-comment_gitment_repo: zaosan.github.io
+comment_gitment_repo: hackerysk.github.io
 comment_gitment_clientId: 30db52d3c52f92960810
 comment_gitment_clientSecret: 63fbee92234a6412f0b8f595a4df417388680ab1
