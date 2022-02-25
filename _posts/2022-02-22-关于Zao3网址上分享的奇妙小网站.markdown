@@ -12,121 +12,19 @@ name>             # TERMUX
 ［---t e s t---］
     test
 	test
-	teest
-	test
+
 ————————————————————————
-test
-test
-test
-test
-test
-
+[WallHaven][wallhaven]
 ```
 test
 test
 
 ```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-test
-test
-
-```
-:w!
-```
-test
-test
-
-```
-test
-test
-
-```
-test
 
 ![termux](/assets/img/website-test.jpg)
-test
-test
 
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
+
+[wallhaven]: https://wallhaven.cc
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
