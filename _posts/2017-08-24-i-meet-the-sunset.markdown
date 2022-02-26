@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  I meet the sunset
-date:   2017-08-24 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+title:  The Secret of Psalm 46
+date:   2022-02-22 13:32:20 +0300
+description: 你们之中，有多少人亲身见证过一次日全食？有朝一日，能站在月球的阴影之下，是我生命里许多无足轻重的目标中的一个。 # Add post description (optional)
 img: postimg/2022/0222/posttest.jpg # Add image post (optional)
-tags: [Blog, Sunset]
+tags: [游戏, 文章]
 author: # Add name author (optional)
 ---
 ***
