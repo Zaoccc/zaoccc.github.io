@@ -8,6 +8,13 @@ tags: [视频, Share]
 author: # Add name author (optional)
 ---
 
-<p style="text-align: center;"><iframe width="960" height="588" src="//amvnews.ru/index.php?go=Files&file=embed&id=9851" frameborder="0" allowfullscreen></iframe></p>
+Video Test <!>
 
-<iframe width="480" height="400" src="//amvnews.ru/index.php?go=Files&file=embed&id=5452" frameborder="0" allowfullscreen></iframe>
+***
+
+<p style="text-align: center;"><iframe width="640" height="392" src="//amvnews.ru/index.php?go=Files&file=embed&id=9851" frameborder="0" allowfullscreen></iframe></p>
+
+***
+
+<p style="text-align: center;"><iframe width="240" height="200" src="//amvnews.ru/index.php?go=Files&file=embed&id=5452" frameborder="0" allowfullscreen></iframe></p>
+
