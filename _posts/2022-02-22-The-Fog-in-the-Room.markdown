@@ -23,7 +23,7 @@ BGM
 
 **Other Blue**(2004)
 
-<p class=” video “><iframe src="//amvnews.ru/index.php?go=Files&file=embed&id=5452" frameborder="0" allowfullscreen></iframe></p>
+<p class="video"><iframe src="//amvnews.ru/index.php?go=Files&file=embed&id=5452" frameborder="0" allowfullscreen></iframe></p>
 
 BGM [ Otherside ](https://music.163.com/#/song?id=1869708)
   
