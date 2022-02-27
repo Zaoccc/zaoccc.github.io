@@ -3,7 +3,7 @@ layout: post
 title:  The Secret of Psalm 46 | 重温与润色与润色
 date:   2022-02-22 13:30:00 +0300
 description: 你们之中，有多少人亲身见证过一次日全食？有朝一日，能站在月球的阴影之下，是我生命里许多无足轻重的目标中的一个。 # Add post description (optional)
-img: postimg/2022/0222/posttest.jpg # Add image post (optional)
+img: postimg/2022/0222/TSoPsalm46.jpg # Add image post (optional)
 tags: [游戏, 文章]
 author: # Add name author (optional)
 ---
