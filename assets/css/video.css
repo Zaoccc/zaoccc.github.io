@@ -3,8 +3,8 @@ position: relative;
 padding-bottom: 36.25%;
 height: 0;
 overflow: hidden;
-max-width: 640px;
-max-height: 360px;
+max-width: 1280px;
+max-height: 800px;
 margin:0 auto;
 }
 .video iframe,
