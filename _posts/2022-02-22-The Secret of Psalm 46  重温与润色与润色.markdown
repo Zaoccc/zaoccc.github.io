@@ -13,6 +13,8 @@ author: # Add name author (optional)
 [The Secret of Psalm 46 (2002)](http://www.ludix.com/moriarty/psalm46.html)
 	
 ***
+![eclipse of the sun](http://www.ludix.com/moriarty/images/eclipse.png)
+
 # The Secret of Psalm 46 #  
 ### (2002) ###
 ## 诗篇四十六的秘密 ##
@@ -610,4 +612,4 @@ Gray声称他有一个秘密的数学公式，确切无疑地“证明”了，�
 
 
 
-<p style="text-align: center;"><iframe src="//player.bilibili.com/player.html?aid=883710475&bvid=BV1VK4y1s7bq&cid=207739198&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe></p>
+<p class="video"><iframe src="//player.bilibili.com/player.html?aid=883710475&bvid=BV1VK4y1s7bq&cid=207739198&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></p>
