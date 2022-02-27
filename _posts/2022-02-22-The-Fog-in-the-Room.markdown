@@ -14,15 +14,16 @@ Video Test <!>
 
 **Weltsicht**(2018)
 
-<p class=” video “ style="text-align: center;"><iframe src="//amvnews.ru/index.php?go=Files&file=embed&id=9851" frameborder="0" allowfullscreen></iframe></p>
+<p style="text-align: center;"><iframe src="//amvnews.ru/index.php?go=Files&file=embed&id=9851" frameborder="0" allowfullscreen></iframe></p>
 
-BGM <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=34528909&auto=0&height=66"></iframe>
+BGM
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=34528909&auto=0&height=66"></iframe>
 
 ***
 
 **Other Blue**(2004)
 
-<p class=” video “><p style="text-align: center;"><iframe src="//amvnews.ru/index.php?go=Files&file=embed&id=5452" frameborder="0" allowfullscreen></iframe></p></p> 
+<p style="text-align: center;"><p class=” video “><iframe src="//amvnews.ru/index.php?go=Files&file=embed&id=5452" frameborder="0" allowfullscreen></iframe></p></p> 
 
 BGM [ Otherside ](https://music.163.com/#/song?id=1869708)
   
