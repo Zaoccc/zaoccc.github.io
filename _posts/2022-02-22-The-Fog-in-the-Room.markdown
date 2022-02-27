@@ -17,6 +17,7 @@ Video Test <!>
 <p class="video"><iframe src="//amvnews.ru/index.php?go=Files&file=embed&id=9851" frameborder="0" allowfullscreen></iframe></p>
 
 BGM [ Astronaut ](https://music.163.com/#/song?id=34528909)
+Video link [ Weltsicht ](https://amvnews.ru/index.php?go=Files&file=embed&id=9851)
 
 ***
 
@@ -25,6 +26,7 @@ BGM [ Astronaut ](https://music.163.com/#/song?id=34528909)
 <p class="video"><iframe src="//amvnews.ru/index.php?go=Files&file=embed&id=5452" frameborder="0" allowfullscreen></iframe></p>
 
 BGM [ Otherside ](https://music.163.com/#/song?id=1869708)
+Video link [ Other Blue ](https://amvnews.ru/index.php?go=Files&file=embed&id=5452)
   
 
 
