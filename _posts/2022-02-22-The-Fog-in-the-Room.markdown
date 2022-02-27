@@ -16,8 +16,9 @@ Video Test <!>
 
 <p class="video"><iframe src="//amvnews.ru/index.php?go=Files&file=embed&id=9851" frameborder="0" allowfullscreen></iframe></p>
 
-BGM [ Astronaut ](https://music.163.com/#/song?id=34528909)  
-Video link [ Weltsicht ](https://amvnews.ru/index.php?go=Files&file=embed&id=9851)
+BGM- [ Astronaut ](https://music.163.com/#/song?id=34528909)  
+SRC- [ Astronaut ](https://amvnews.ru/index.php?go=Files&in=view&id=9851)  
+Page- link [ Weltsicht ](https://amvnews.ru/index.php?go=Files&file=embed&id=9851)
 
 ***
 
@@ -25,8 +26,9 @@ Video link [ Weltsicht ](https://amvnews.ru/index.php?go=Files&file=embed&id=985
 
 <p class="video"><iframe src="//amvnews.ru/index.php?go=Files&file=embed&id=5452" frameborder="0" allowfullscreen></iframe></p>
 
-BGM [ Otherside ](https://music.163.com/#/song?id=1869708)  
-Video link [ Other Blue ](https://amvnews.ru/index.php?go=Files&file=embed&id=5452)
+BGM- [ Otherside ](https://music.163.com/#/song?id=1869708)  
+SRC- [ Otherside ](https://amvnews.ru/index.php?go=Files&in=view&id=5452)  
+Page- link [ Other Blue ](https://amvnews.ru/index.php?go=Files&file=embed&id=5452)
   
 
 
