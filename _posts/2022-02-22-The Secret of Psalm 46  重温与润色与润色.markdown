@@ -612,4 +612,4 @@ Gray声称他有一个秘密的数学公式，确切无疑地“证明”了，�
 
 
 
-<p class="video"><iframe src="//player.bilibili.com/player.html?aid=883710475&bvid=BV1VK4y1s7bq&cid=207739198&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe></p>
+<p class="video"><iframe src="//player.bilibili.com/player.html?aid=883710475&bvid=BV1VK4y1s7bq&cid=207739198&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe></p>
