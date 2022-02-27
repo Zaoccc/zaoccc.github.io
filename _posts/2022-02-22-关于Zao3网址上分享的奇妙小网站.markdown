@@ -11,7 +11,18 @@ author: zaosan-2019# Add name author (optional)
 
 如果你在找原来的书签收藏页的话，在特设栏下有**Zao3-BookMarks**的链接，或者点击[ **这里** ](https://zaosan.rthe.xyz)，这里有2021以前的网站书签。  
 
-（因为一些特殊原因，目前不再维护，所以有相当一部分网站目前无法访问或者正常方式无法访问 (º﹃º )）
+因为一些特殊原因，原始目前不再维护，所以有相当一部分网站目前无法访问或者正常方式无法访问 \(º﹃º )
+
+<details><summary>写在前面</summary>
+<p>
+
+当然我知道像这样的网站有很多，比如说 [书签地球](https://www.bookmarkearth.com/) [Seeseed](https://www.seeseed.com/) 什么的。
+相比之下。。。
+
+- [ ] Finish 写在前面 :tada:
+
+</p>
+</details>
 
 
 ***
@@ -35,28 +46,30 @@ author: zaosan-2019# Add name author (optional)
 <details><summary>CLICK ME SEE ALL</summary>
 <p>
 
-1. First Test
-   * Second test
-    * Third test  
+>
+>1. First Test
+>  * Second test
+>    * Third test  
+>
+>2. First test
+>   - Second test
+>     sSecond test
+>    - Third test  
+>
+>3. First test
+>   - [zaoc](zaoccc.github.io)
+>    - [zaoc](zaoccc.github.io)  
+>
+>4. First test
+>   * Second test
+>    *Third test  
+>
+>5. First test
+>   - Second test
+>   - sSeconf test
+>    - Third test
+>
 
-2. First test
-   - Second test
-     sSecond test
-    - Third test  
-
-3. First test
-   - [zaoc](zaoccc.github.io)
-    - [zaoc](zaoccc.github.io)  
-
-4. First test
-   * Second test
-    *Third test  
-
-5. First test
-   - Second test
-   - sSeconf test
-    - Third test
-   
 
 </p>
 </details>
