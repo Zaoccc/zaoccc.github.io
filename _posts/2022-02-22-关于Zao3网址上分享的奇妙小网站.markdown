@@ -9,24 +9,45 @@ author: zaosan-2019# Add name author (optional)
 ---
 诸君快乐！
 
-如果你在找原来的书签收藏页的话，在特设栏下有**Zao3-BkMs**的链接，或者点击[ **这里** ](https://zaosan.rthe.xyz)，这里有2021以前的网站书签。  
+如果你在找原来的书签收藏页的话，在特设栏下有**Zao3-BkMs**的链接，或者点击[ **这里** ](https://zaosan.rthe.xyz)。  
 
-因为一些特殊原因，原始目前不再维护，所以有相当一部分网站目前无法访问或者正常方式无法访问 \(º﹃º )
+因为一些特殊原因，原始网页不再维护，所以有相当一部分网站目前无法访问或者正常方式无法访问 \(º﹃º )  
+
+### 另外，您应该知道的，分享不是它们的义务，白白拿走也不是您的权利 ###  
 
 <details><summary>写在前面</summary>
 <p>
 
-当然我知道像这样的网站有很多，比如说  
-[ 书签地球 ](https://www.bookmarkearth.com/)  
-[ Seeseed ](https://www.seeseed.com/)  
-什么的。  
-相比之下。。。  
-  
-- [ ] Finish 写在前面 
+## 请您具有辨别是非的能力 ##
+## 请您发表高见时深思 ##
+## 请您具有辨别是非的能力 ##
+## 请您发表高见时深思 ##
+## 请您具有辨别是非的能力 ##
+## 请您发表高见时深思 ##
 
+当然我知道像这样的网站有很多，比如说  
+
+  [ 书签地球 ](https://www.bookmarkearth.com/)  
+
+  [ Seeseed ](https://www.seeseed.com/)  什么的。  
+
+  相比之下，本网站根本不值一提，相比之下甚显简陋。
+
+  但，网页的初衷是为了分享，知识被创造不是为了封锁在高墙之后，不是吗？
+  
+  任何孔洞都可以透过光。  
+  
 </p>
 </details>
 
+>
+>![sharewith](/assets/img/postimg/2022/0222/sharewith.jpeg)
+>纪念推动信息自由的理想主义者：亚伦-希勒尔-斯沃茨
+>
+>“信息就是力量。但像所有力量一样，有些人只想占为己有。世界上所有的科学和文化遗产，已在书籍和期刊上发布了数个世纪，正渐渐地被少数私有的公司数字化并上锁。那些能够获取这些资源的人，你有责任将它与世界分享”
+>
+>知识不是一小部分人的特权，是应该自由顺畅流向每一个需要他的人  --Lore Free
+>
 
 ***
 
@@ -46,36 +67,7 @@ author: zaosan-2019# Add name author (optional)
 
 ***
 
-<details><summary>CLICK ME SEE ALL</summary>
-<p>
 
->
->1. First Test  
->  * Second test  
->    * Third test    
->  
->2. First test  
->   - Second test  
->     sSecond test  
->    - Third test  
->  
->3. First test  
->   - [zaoc](zaoccc.github.io)  
->    - [zaoc](zaoccc.github.io)    
->  
->4. First test  
->   * Second test  
->    *Third test  
->  
->5. First test  
->   - Second test  
->   - sSeconf test  
->    - Third test  
->  
-
-
-</p>
-</details>
 
 ***
 
