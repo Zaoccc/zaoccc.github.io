@@ -8,7 +8,7 @@ tags: [文章, Share]
 author: # Add name author (optional)
 ---
 
-#### [轻科幻-图灵测试](https://www.gcores.com/articles/122707) #### [^1]
+#### [轻科幻-图灵测试](https://www.gcores.com/articles/122707) [^1]
 
 [^1]: 转载于机核网，本站只用于暂时分享，不具有任何的盈利性质，如有冒犯，请联系删除。
 
