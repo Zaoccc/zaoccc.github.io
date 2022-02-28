@@ -13,11 +13,10 @@ author: zaosan-2019# Add name author (optional)
 
 因为一些特殊原因，原始网页不再维护，所以有相当一部分网站目前无法访问或者正常方式无法访问 \(º﹃º )  
 
-### 另外，您应该知道的，分享不是它们的义务，白白拿走也不是您的权利 ###  
+### 另外，您应该知道的，分享不是它们的义务，白白拿走也不是您的权利 [^before]
 
 
 
-## 写在前面 [^before]
 <details><summary>写在前面</summary>
 <p>
 
@@ -87,7 +86,7 @@ author: zaosan-2019# Add name author (optional)
  `(https://lorefree.com/)`  
 
 
- ◆ [ *Z-Library* ](https://zh.b-ok.com/) -数字图书馆  
+ ◆ [ **Z-Library** ](https://zh.b-ok.com/) -数字图书馆  
  
  `(https://zh.b-ok.com/)`  
 
@@ -97,12 +96,13 @@ author: zaosan-2019# Add name author (optional)
  ``  
 
 
-
-> ◆ [ ** ]() -  
-> 
-> ``  
->
->
+<!--
+ > ◆ [ *你在找什么呢？* ]() -  
+ > 
+ > ``  
+ >
+ >
+-->
 
 ***
 
