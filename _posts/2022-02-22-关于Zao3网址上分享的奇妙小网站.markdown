@@ -81,7 +81,7 @@ author: zaosan-2019# Add name author (optional)
  `http://tools.liumingye.cn/music`  
 
 
- ◆ [ **LoreFree** ](https://lorefree.com/) -首个基于EOS和IPFS的去中心化知识共享社区  
+ ◆ [ **LoreFree** ](https://lorefree.com/) -首个基于EOS和IPFS的去中心化知识共享社区（主要是电子书）  
  
  `(https://lorefree.com/)`  
 
