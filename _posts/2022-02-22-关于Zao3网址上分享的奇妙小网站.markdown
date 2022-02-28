@@ -19,7 +19,7 @@ author: zaosan-2019# Add name author (optional)
 
 <details><summary>写在前面</summary>
 <p>
-
+ 
 ## 请您具有辨别是非的能力 ##
 ## 请您发表高见时深思 ##
 ## 请您具有辨别是非的能力 ##
@@ -112,7 +112,7 @@ author: zaosan-2019# Add name author (optional)
  ◆ [ **Mikutap** ](https://aidn.jp/mikutap/) -如果无聊的话，  
  
  `(https://aidn.jp/mikutap/)`  
- Similar：[Lagged](https://lagged.com/) or [Pico-8](https://www.lexaloffle.com/pico-8.php) or [Neave](https://neave.com/)  [小霸王](https://www.yikm.net/)游戏机
+ Similar：[Lagged](https://lagged.com/) or [Pico-8](https://www.lexaloffle.com/pico-8.php) or [Neave](https://neave.com/) or [小霸王](https://www.yikm.net/)游戏机
 
 
 
