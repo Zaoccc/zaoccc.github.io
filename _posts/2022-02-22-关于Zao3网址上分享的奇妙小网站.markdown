@@ -84,16 +84,35 @@ author: zaosan-2019# Add name author (optional)
  ◆ [ **LoreFree** ](https://lorefree.com/) -首个基于EOS和IPFS的去中心化知识共享社区（主要是电子书）  
  
  `(https://lorefree.com/)`  
+ Similar:[Z-Library](https://zh.b-ok.com/) -数字图书馆
+  
 
-
- ◆ [ **Z-Library** ](https://zh.b-ok.com/) -数字图书馆  
+ ◆ [ **Photopea** ](https://www.photopea.com/) -可以说是在线版的ps，十分好用  
  
- `(https://zh.b-ok.com/)`  
+ `(https://www.photopea.com/)`  
 
 
- ◆ [ ** ]() -  
+ ◆ [ **RARBG** ](http://rarbgmirror.org/index80.php) -资源数相当大种子库，但建议访问前打开uBlock origin  
  
- ``  
+ `(http://rarbgmirror.org/index80.php)`  
+
+
+ ◆ [ **24Mail** ](http://24mail.chacuo.net/) -在线邮箱  
+ 
+ `(http://24mail.chacuo.net/)`  
+ Similar:[Guerrillamail](https://www.guerrillamail.com/zh/)并且支持发送邮件 
+
+ ◆ [ **Windows93** ](http://www.windows93.net/) -Windows93  
+ 
+ `(http://www.windows93.net/)`  
+
+
+ ◆ [ **Mikutap** ](https://aidn.jp/mikutap/) -如果无聊的话，  
+ 
+ `(https://aidn.jp/mikutap/)`  
+ Similar：[Lagged](https://lagged.com/)  [Pico-8](https://www.lexaloffle.com/pico-8.php)  [Neave](https://neave.com/)  [小霸王](https://www.yikm.net/)游戏机
+
+
 
 
 <!--
@@ -106,10 +125,9 @@ author: zaosan-2019# Add name author (optional)
 
 ***
 
-这一些是可能[不常用的]({{site.baseurl}}/bookmarks)  
+这一些是可能[不常用的]({{site.baseurl}}/bookmarks)  时间原因，就不再整理了 （为什么二月没有三十号啊，恼 (╬▔皿▔)╯ ）
 
 
-***
 
 [^before]: ##请您具有辨别是非的能力##请您发表高见时深思##当然我知道像这样的网站有很多，比如说[书签地球](https://www.bookmarkearth.com/)和[Seeseed](https://www.seeseed.com/)什么的。相比之下，本网站根本不值一提，相比之下甚显简陋。但，网页的初衷是为了分享，知识被创造不是为了封锁在高墙之后，不是吗？
 
