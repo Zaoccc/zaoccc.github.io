@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zaosan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Somethings else could be change
-163music: music.163.com/outchain/player?type=2&id=1439767696&auto=1&height=32
+163music: music.163.com/outchain/player?type=2&id=1439767696&auto=1&height=32 #163music
 
 # Author settings
 author: ZaoSan # add your name
