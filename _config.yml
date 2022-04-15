@@ -9,7 +9,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://zaosan.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Somethings else could be change
-163musicID: 427416520 #163music "//music.163.com/outchain/player?type=2&id={{site.163musicID}}&auto=1&height=32"
+163music: music.163.com/outchain/player?type=2&id=427416520&auto=1&height=32 #163music <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//{{site.163music}}" position="absolute" z-index="1001"></iframe>
 
 # Author settings
 author: ZaoSan # add your name
