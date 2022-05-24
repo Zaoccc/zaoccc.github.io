@@ -9,9 +9,9 @@ author: zaosan-2019# Add name author (optional)
 ---
 诸君快乐！
 
-如果你在找原来的书签收藏页的话，在特设栏下有**Zao3-BkMs**的链接，或者点击[ **这里** ](https://zaosan.rthe.xyz)。  
+如果你在找原来的书签收藏页的话，点击[ **这里** ](https://zaosan.rthe.xyz)。  
 
-因为一些特殊原因，原始网页不再维护，所以有相当一部分网站目前无法访问或者正常方式无法访问 \(º﹃º )  
+因为一些特殊原因，原始网页不再维护，所以部分网站目前无法访问或者正常方式无法访问。 
 
 ### 另外，您应该知道的，分享不是它们的义务，白白拿走也不是您的权利 
 
@@ -48,18 +48,15 @@ author: zaosan-2019# Add name author (optional)
 >  
 
   
-<details><summary>写在前面</summary>
+<details><summary>写在后面</summary>
 <p>
 
-导向的某些网站可能有较多的广告，您可以试着在浏览器里添加一些插件来获取最佳体验，这里推荐uBlock origin，
+导向的某些网站可能有较多的广告，您可以试着在浏览器里添加一些插件来获取最佳体验，这里推荐uBlock origin，插件下载请自行搜索。
 
 </p>
 </details>
   
 ***
-  
-  
-
 
 
  ◆ [ **WallHaven** ](https://wallhaven.cc) -很棒的壁纸！
@@ -119,11 +116,9 @@ author: zaosan-2019# Add name author (optional)
 
 
 <!--
- > ◆ [ *你在找什么呢？* ]() -  
- > 
- > ``  
- >
- >
+ ◆ [ **发 现 你 了 ** ](https://xxx.example.xxx/) -example
+ 
+ `https://xxx.example.xxx/`  
 -->
 
 ***
