@@ -9,10 +9,11 @@ author: Zhao Sihan # Add name author (optional)
 ---
 ***
 
-###理想大学###
+### 理想大学 ###
+
 ***
 
-###纪录片###
+### 纪录片 ###
 
 <iframe src="//player.bilibili.com/player.html?aid=52012946&bvid=BV1z4411Y7tX&cid=365220412&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
@@ -24,11 +25,16 @@ author: Zhao Sihan # Add name author (optional)
 但若是在思维上就认为宇宙奥秘不可能解开的人，不就是在否认自己最强大的武器吗
 宇宙的尺度确实很大，大到无法触及。
 但是我们敢也能去挑战它们的权威，从高山到蓝天，从地面到海底，都是造物主让人类不能触及的一道又一道的关卡，这是人类的精彩也是生命的精彩，人类很强，从婴儿时期就会对事物产生好气，并尝试了解规律还会经过学习和总结物种，我们有底气去对着世界喊:王侯将相宁有种乎？!人生来就不是拿来被征服的，从祖先们从树下来的那一刻，面对猛兽的那一刻，对抗比自己更强的物种的思考就已经开始。
-***
-###劳动####
+
 ***
 
-###运动###
+### 劳动 ###
+半个月，凭借自己的努力工作，挣得了「月之始源与终焉」原画集.vol2一本
+![yuanhuaji]({{site.baseurl}}/assets/img/postimg/2023/juannima.jpg)
+
+***
+
+### 运动 ###
 
 ![example]({{site.baseurl}}/assets/img/postimg/2023/juannima.jpg)
 
