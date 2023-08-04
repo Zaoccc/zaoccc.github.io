@@ -43,9 +43,10 @@ author: Zhao Sihan # Add name author (optional)
 <details><summary>点击展开</summary>
  <p>
 
-![sport1]({{site.baseurl}}/assets/img/postimg/2023/sport1.jpg)
+  ![sport1]({{site.baseurl}}/assets/img/postimg/2023/sport1.jpg)
+  
 
-![sport2]({{site.baseurl}}/assets/img/postimg/2023/sport2.jpg)
+  ![sport2]({{site.baseurl}}/assets/img/postimg/2023/sport2.jpg)
 
  </p>
 </details>
