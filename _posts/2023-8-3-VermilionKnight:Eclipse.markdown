@@ -10,7 +10,8 @@ author: Zhao Sihan # Add name author (optional)
 ***
 
 ### 理想大学 ###
-
+![xia-da]({{site.baseurl}}/assets/img/postimg/2023/xia-da.jpg)
+我就来看看，六百余分的录取分数难望其顶背，但梦都做了还不做到头。
 ***
 
 ### 纪录片 ###
@@ -30,7 +31,7 @@ author: Zhao Sihan # Add name author (optional)
 
 ### 劳动 ###
 半个月，凭借自己的努力工作，挣得了「月之始源与终焉」原画集.vol2一本
-![yuanhuaji]({{site.baseurl}}/assets/img/postimg/2023/juannima.jpg)
+![yuanhuaji]({{site.baseurl}}/assets/img/postimg/2023/yuanhuaji.jpg)
 
 ***
 
