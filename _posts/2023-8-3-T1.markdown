@@ -11,6 +11,7 @@ author: Zhao Sihan # Add name author (optional)
 ***
 
 ### 理想大学 ###
+[ 厦门大学 ](https://zs.xmu.edu.cn/info/1041/8454.htm)
 ![xia-da]({{site.baseurl}}/assets/img/postimg/2023/xia-da.jpg)
 我就来看看，六百余分的录取分数难望其顶背，但梦都做了还不做到头。🤔
 
@@ -48,8 +49,8 @@ author: Zhao Sihan # Add name author (optional)
 
  </p>
 </details>
-看不见?[ **sp1** ]({{site.baseurl}}/assets/img/postimg/2023/sport1.jpg)
-[ **sp2** ]{{site.baseurl}}/assets/img/postimg/2023/sport2.jpg)
+看不见?  [ **sp1** ]({{site.baseurl}}/assets/img/postimg/2023/sport1.jpg)    [ **sp2** ]({{site.baseurl}}/assets/img/postimg/2023/sport2.jpg)
+
 ![example]({{site.baseurl}}/assets/img/postimg//2022/0222/websitesharefooter.jpg)
 
 运动，纪录片，劳动，理想大学
