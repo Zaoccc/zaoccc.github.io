@@ -20,7 +20,7 @@ author: Zhao Sihan # Add name author (optional)
 
 > <iframe src="//player.bilibili.com/player.html?aid=52012946&bvid=BV1z4411Y7tX&cid=365220412&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
-这世界本来就有很多的偶然。
+这世界本来就有很多的偶然。</p>
 现在看视频的你，亦或是打字的我本来就是最神奇的偶然，人类的诞生就是或是其它高级智慧生物的诞生本生就是最不可思议的事情。我们都是星辰的子嗣，我们在思考宇宙时，也就是宇宙在思考自己。
 帕尔斯卡曾说:人只不过是一根芦苇，是自然界最脆弱的东西，但他是一根能思想的芦苇。用不着整个宇宙都拿起武器来反对他，一口气、一滴水就足以致他以死命。
 然而，纵使宇宙毁灭了他，人却仍然要比致他于死命的东西高贵得多，因为他知道自己要灭亡，以及宇宙对他所具有的优势，而宇宙对此却是一无所知。
