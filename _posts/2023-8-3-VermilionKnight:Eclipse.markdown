@@ -38,16 +38,17 @@ author: Zhao Sihan # Add name author (optional)
 ***
 
 ### 运动 ###
+
 <details><summary>点击展开</summary>
-<p>
+ <p>
 
 ![sport1]({{site.baseurl}}/assets/img/postimg/2023/sport1.jpg)
 
 ![sport2]({{site.baseurl}}/assets/img/postimg/2023/sport2.jpg)
 
-</p>
+ </p>
 </details>
 
-![example]({{site.baseurl}}/assets/img/postimg/2023/juannima.jpg)
+![example]({{site.baseurl}}/assets/img/postimg//2022/0222/websitesharefooter.jpg)
 
 运动，纪录片，劳动，理想大学
