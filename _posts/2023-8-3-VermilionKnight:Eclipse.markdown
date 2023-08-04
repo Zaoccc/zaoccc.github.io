@@ -7,11 +7,13 @@ img: postimg/2023/1999-jiexika.gif # Add image post (optional)
 tags: [Blog,]
 author: Zhao Sihan # Add name author (optional)
 ---
+
 ***
 
 ### 理想大学 ###
 ![xia-da]({{site.baseurl}}/assets/img/postimg/2023/xia-da.jpg)
 我就来看看，六百余分的录取分数难望其顶背，但梦都做了还不做到头。🤔
+
 ***
 
 ### 纪录片 ###
@@ -40,6 +42,7 @@ author: Zhao Sihan # Add name author (optional)
 <p>
 
 ![sport1]({{site.baseurl}}/assets/img/postimg/2023/sport1.jpg)
+
 ![sport2]({{site.baseurl}}/assets/img/postimg/2023/sport2.jpg)
 
 </p>
