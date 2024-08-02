@@ -9,23 +9,9 @@ author: zaosan-2019# Add name author (optional)
 ---
 诸君快乐！
 
-如果你在找原来的书签收藏页的话，点击[ **这里** ](https://zaosan.rthe.xyz)。  
-
 因为一些特殊原因，原始网页不再维护，所以部分网站目前无法访问或者正常方式无法访问。 
 
 ### 另外，您应该知道的，分享不是它们的义务，白白拿走也不是您的权利 
-
-
-
-<details><summary>写在前面</summary>
-<p>
- 
-## 请您具有辨别是非的能力 ##
-## 请您发表高见时深思 ##
-## 请您具有辨别是非的能力 ##
-## 请您发表高见时深思 ##
-## 请您具有辨别是非的能力 ##
-## 请您发表高见时深思 ##
 
   本网站根本不值一提，相比之下甚显简陋。
 
@@ -59,7 +45,7 @@ author: zaosan-2019# Add name author (optional)
 ***
 
 
- ◆ [ **WallHaven** ](https://wallhaven.cc) -很棒的壁纸！
+ ◆ [ **WallHaven** ](https://wallhaven.cc) -很棒的壁纸！(need vpn)
 
  `https://wallhaven.cc`  
   
