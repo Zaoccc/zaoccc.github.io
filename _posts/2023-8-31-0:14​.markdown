@@ -2,20 +2,8 @@
 layout: post
 title:  0:14​
 date:   2023-08-31 13:32:20 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: description # Add post description (optional)
 img: post-1.jpg # Add image post (optional)
-tags: [Blog, Mountains]
+tags: [Blog]
 author: Adam Neilson # Add name author (optional)
 ---
->我这一生被束缚在局限的世界，它是一台机器，即便我穿上螺丝钉的伪装想停止那运转，毫无疑问，只是我被过滤碾成废物 ​
-
-鲁迅其实早就讲过了，在《我们现在怎么做父亲》中有这一段话：“殊不知富翁的杏酪与穷人的豆浆，在爱情上价值同等，而其价值却正在父母当时并无求报的心思，否则变成买卖行为，虽喝了杏酪，无非是人乳喂猪，无非要猪肉肥美，在人伦道德上丝毫没有价值了。”但是令我想不到的是，100年前如此，100年后仍然如此。
-​“穿梭在花园里的不一定是园丁，也可能是痴心妄想地以为自己是被鲜花簇拥的明星。
-
-> Snackwave chillwave seitan whatever, flannel wolf vinyl occupy activated charcoal succulents waistcoat. Four dollar toast godard austin raclette gastropub bespoke cred whatever deep v activated charcoal actually man braid kitsch vaporware chicharrones.
-
-Taxidermy shaman irony williamsburg bespoke. Freegan ugh mumblecore selfies, shabby chic neutra everyday carry. Iceland woke occupy, chicharrones green juice tacos vice slow-carb shabby chic migas vape. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art. Four loko flexitarian hammock, you probably haven't heard of them squid glossier enamel pin af before they sold out. Jianbing narwhal chartreuse helvetica 3 wolf moon quinoa. 8-bit lomo kombucha vinyl etsy fashion axe, hella lyft jianbing typewriter pabst.
-
-![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
-
-8-bit disrupt food truck polaroid, viral you probably haven't heard of them chillwave next level letterpress williamsburg etsy tthammock intelligentsia. Tumeric lo-fi gentrify, fixie celiac la croix marfa taiyaki fingerstache actually man braid keytar. Brunch coloring book succulents church-key umami affogato. Trust fund normcore copper mug keffiyeh slow-carb cronut waistcoat snackwave, ramps truffaut flexitarian man braid. Celiac flexitarian authentic hashtag wayfarers. Next level pitchfork scenester godard. Salvia etsy edison bulb knausgaard poke jianbing actually. Mlkshk retro cardigan photo booth swag. Occupy shaman austin, meditation green juice flannel succulents twee. Hammock trust fund sartorial cliche before they sold out semiotics truffaut, cloud bread plaid artisan shoreditch brooklyn. Shoreditch air plant asymmetrical DIY. Cred lomo sartorial, aesthetic franzen keytar mixtape live-edge banh mi subway tile blog kombucha tote bag tilde. Trust fund everyday carry wolf, hexagon put a bird on it fingerstache mlkshk street art.
