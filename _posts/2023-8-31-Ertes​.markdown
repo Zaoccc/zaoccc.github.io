@@ -1,9 +1,0 @@
----
-layout: post
-title:  0:14​
-date:   2023-08-31 13:32:20 +0300
-description: description # Add post description (optional)
-img: post-1.jpg # Add image post (optional)
-tags: [Blog]
-author: Adam Neilson # Add name author (optional)
----
