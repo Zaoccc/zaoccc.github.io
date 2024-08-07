@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  轻科幻-图灵测试
-date:   2022-02-22 13:25:20 +0300
+title: 轻科幻-图灵测试
+date: 2022-02-22 13:25:20 +0300
 description: 被他人模仿，人类就会感到恼怒。那如果被复制，人类又会怎么想呢？ # Add post description (optional)
 img: postimg/2022/0222/tulingtest.jpg # Add image post (optional)
 tags: [文章, Share]

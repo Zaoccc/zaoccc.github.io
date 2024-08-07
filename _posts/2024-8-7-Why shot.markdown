@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Why Shot?
-date:   2027-08-07 13:32:20 +0300
+title: Why Shot?
+date: 2024-08-07 13:32:20 +0300
 description: 每次下意识地按下快门后 # Add post description (optional)
 img: postimg/2024/WhyShot.jpg # Add image post (optional)
 tags: [Blog,]
