@@ -9,7 +9,6 @@ author: # Add name author (optional)
 ---
 	
 ***
-![eclipse of the sun](http://www.ludix.com/moriarty/images/eclipse.png)
 
 # The Secret of Psalm 46 #  
 ### (2002) ###

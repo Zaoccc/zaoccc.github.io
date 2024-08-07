@@ -15,5 +15,3 @@ author: Zhao Sihan # Add name author (optional)
 某日地某时，旧时的回忆浮现，你感慨当时究竟为什么，却依旧没打开游戏。
 
 ***
-
-![example]({{site.baseurl}}/assets/img/postimg//2022/0222/websitesharefooter.jpg)

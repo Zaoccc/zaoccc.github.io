@@ -9,22 +9,8 @@ author: zaosan-2019# Add name author (optional)
 ---
 诸君快乐！
 
-因为一些特殊原因，原始网页不再维护，所以部分网站目前无法访问或者正常方式无法访问。 
-
-### 另外，您应该知道的，分享不是它们的义务，白白拿走也不是您的权利 
-
-  本网站根本不值一提，相比之下甚显简陋。
-
-  但，网页的初衷是为了分享，知识被创造不是为了封锁在高墙之后，不是吗？
-  
-  任何孔洞都可以透过光。  
-  
-</p>
-</details>
-
 
 ***
-
 
 >  
 >![sharewith](/assets/img/postimg/2022/0222/sharewith.jpeg)
@@ -33,7 +19,6 @@ author: zaosan-2019# Add name author (optional)
 >“信息就是力量。但像所有力量一样，有些人只想占为己有。世界上所有的科学和文化遗产，已在书籍和期刊上发布了数个世纪，正渐渐地被少数私有的公司数字化并上锁。那些能够获取这些资源的人，你有责任将它与世界分享”
 >  
 
-  
 <details><summary>写在后面</summary>
 <p>
 
@@ -112,5 +97,3 @@ author: zaosan-2019# Add name author (optional)
 这一些是可能[不常用]({{site.baseurl}}/bookmarks)的, ##原因，就不再整理了
 
 ***
-
-![termux](/assets/img/postimg/2022/0222/websitesharefooter.jpg)
