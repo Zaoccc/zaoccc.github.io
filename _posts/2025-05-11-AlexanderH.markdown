@@ -3,7 +3,7 @@ layout: post
 title: Music play
 date: 2025-05-11 13:32:20 +0300
 description: Something I wanna share # Add post description (optional)
-img: https://i1.hdslb.com/bfs/archive/d15cb2444efb25bf0b87ad0a6d8e8b8c36183937.jpg@265w_166h_1c.webp # Add image post (optional)
+img: postimg/2024/AH.png # Add image post (optional)
 tags: [Blog,]
 author: Zhao Sihan # Add name author (optional)
 ---
