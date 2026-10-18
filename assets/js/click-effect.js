@@ -18,6 +18,10 @@
 
   $(function () {
     $('body').on('click', function (event) {
+      if ($(event.target).closest('[data-no-click-effect]').length) {
+        return;
+      }
+
       var phrase = phrases[phraseIndex];
       phraseIndex = (phraseIndex + 1) % phrases.length;
 

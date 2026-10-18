@@ -4,7 +4,8 @@ layout: default
 <div class="flex-container">
   {% include header.html %}
 
-  <section class="about-container">
+  {% unless page.hide_intro %}
+  <section class="about-container home-intro">
     <h1 class="home-slogan">
       - 富强 - 民主 - 文明 - 和谐 -<br>
       - 自由 - 平等 - 公正 - 法治 -<br>
@@ -19,6 +20,7 @@ layout: default
 
     <h5 class="home-slogan-hint">↑ ♥Click to about♥ ↑</h5>
   </section>
+  {% endunless %}
 
   <div class="content wrapper">
     {{ content }}

@@ -8,19 +8,27 @@
   margin: 100px 0 100px;
 }
 
-.home-slogan {
-  font-weight: 700;
-  color: #de1c31;
-  text-align: center;
-}
+.home-intro {
+  margin: 32px 0 36px;
 
-.home-banner {
-  text-align: center;
-}
+  .home-slogan {
+    margin: 0 0 12px;
+    line-height: 1.35;
+    font-weight: 700;
+    color: #de1c31;
+    text-align: center;
+  }
 
-.home-slogan-hint {
-  color: #df0d56;
-  text-align: center;
+  .home-banner {
+    margin: 0;
+    text-align: center;
+  }
+
+  .home-slogan-hint {
+    margin: 8px 0 0;
+    color: #df0d56;
+    text-align: center;
+  }
 }
 
 .about-header {

@@ -1,6 +1,3 @@
-#mylogo{
- margin : 0px 0px 0px 0px;
-}
 .highlight {
   background-color: #faf9f9;
   -webkit-border-radius: 3px;
@@ -787,7 +784,6 @@ body {
   background-color: #fff;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  -webkit-overflow-scrolling: touch;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -835,15 +831,6 @@ pre code {
       -ms-flex-direction: column;
           flex-direction: column;
   min-height: 100vh;
-  -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
-  transition: -webkit-transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
-  transition: transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
-  transition: transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99), -webkit-transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
-}
-
-.flex-container.active {
-  -webkit-transform: translate3d(300px, 0, 0);
-          transform: translate3d(300px, 0, 0);
 }
 
 .flex-container.active::after {
@@ -881,13 +868,9 @@ pre code {
   color: #ffffff;
 }
 
-.clearfix::before, .clearfix::after {
+.clearfix::after {
   content: "";
   display: table;
-  clear: both;
-}
-
-.clearfix::before {
   clear: both;
 }
 
@@ -916,16 +899,38 @@ pre code {
 }
 
 .main-header .logo {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 8px;
   width: 50%;
+  margin: 0;
+  font-size: 27px;
   text-align: center;
 }
 
 .main-header .logo a {
   text-decoration: none;
   text-transform: uppercase;
-  font-size: 27px;
+  font-size: inherit;
   font-weight: 300;
   color: #311e3e;
+}
+
+.main-header .logo .logo-gif {
+  display: block;
+  width: 1em;
+  height: 1em;
+  object-fit: contain;
 }
 
 .main-nav {
@@ -937,8 +942,11 @@ pre code {
   height: 100%;
   background-color: #fff;
   padding: 25px 30px;
+  overflow-y: auto;
   -webkit-transform: translate3d(-300px, 0, 0);
           transform: translate3d(-300px, 0, 0);
+  -webkit-transition: -webkit-transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
+          transition: transform 0.4s cubic-bezier(0.16, 0.68, 0.43, 0.99);
 }
 
 .main-nav ul {
@@ -964,6 +972,11 @@ pre code {
 .main-nav ul li a:hover {
   opacity: .8;
   color: #87314e;
+}
+
+.flex-container.active .main-nav {
+  -webkit-transform: translate3d(0, 0, 0);
+          transform: translate3d(0, 0, 0);
 }
 
 .text-accent {
@@ -1073,7 +1086,7 @@ pre code {
 
 /* = = = = = = = = = = Post-Card Styles = = = = = = = = = = */
 .post-card-box {
-  margin: 100px 0 100px;
+  margin: 24px 0 56px;
   padding: 0;
 }
 
@@ -1126,7 +1139,6 @@ pre code {
 }
 
 .post-card .post-card-body .post-card-title {
-  font-family: 'Lato', sans-serif;
   font-weight: 700;
   text-transform: uppercase;
   font-size: 18px;
@@ -1234,7 +1246,6 @@ pre code {
 }
 
 .header-page h1 {
-  font-family: 'Lato', sans-serif;
   font-weight: 400;
   font-size: 36px;
   text-align: center;
@@ -1275,15 +1286,34 @@ pre code {
   opacity: .8;
 }
 
-.page-footer .page-share a {
-  text-decoration: none;
-  color: #999999;
+.page-footer .page-share .share-link {
   margin-left: 10px;
-  font-size: 18px;
+  padding: 0;
+  border: 0;
+  background: none;
+  font: inherit;
+  color: #999999;
+  text-transform: none;
+  cursor: pointer;
 }
 
-.page-footer .page-share a:hover {
-  opacity: .8;
+.page-footer .page-share .share-link:hover {
+  color: #87314e;
+}
+
+.copy-toast {
+  position: absolute;
+  z-index: 1000000;
+  padding: 6px 10px;
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, 0.95);
+  color: #999999;
+  font-size: 13px;
+  white-space: nowrap;
+  pointer-events: none;
+  -webkit-box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
 }
 
 .recent-box {
@@ -1293,7 +1323,6 @@ pre code {
 }
 
 .recent-box .recent-title {
-  font-family: 'Lato', sans-serif;
   font-weight: 400;
   color: #311e3e;
   text-align: center;
@@ -1468,8 +1497,6 @@ pre code {
 }
 
 .blog-tags h1 {
-  text-align: center;
-  font-family: 'Lato', sans-serif;
   font-weight: 400;
   font-size: 36px;
   text-align: center;
@@ -1566,8 +1593,11 @@ pre code {
 /* = = = = = = = = = = Media = = = = = = = = = = */
 /* Small Devices, Tablets */
 @media only screen and (max-width: 768px) {
-  .main-header .logo a {
+  .main-header .logo {
     font-size: 24px;
+  }
+  .post-card-box {
+    margin: 20px 0 40px;
   }
   .post-card-box li {
     width: 100%;
@@ -1611,7 +1641,7 @@ pre code {
   .header-page .page-date {
     font-size: 14px;
   }
-  .main-header .logo a {
+  .main-header .logo {
     font-size: 21px;
   }
   .menu-icon,
@@ -1689,37 +1719,206 @@ pre code {
   }
 }
 
-  .video {
+.video {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
   overflow: hidden;
   max-width: 1280px;
   max-height: 800px;
-  margin:0 auto;
-  }
-  .video iframe,
-  .video object,
-  .video embed {
+  margin: 0 auto;
+}
+
+.video iframe,
+.video object,
+.video embed {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   height: 100%;
-  }
+}
 
 /* = = = = = = = = = = Home Page = = = = = = = = = = */
-.home-slogan {
+.home-intro {
+  margin: 32px 0 36px;
+}
+
+.home-intro .home-slogan {
+  margin: 0 0 12px;
+  line-height: 1.35;
   font-weight: 700;
   color: #de1c31;
   text-align: center;
 }
 
-.home-banner {
+.home-intro .home-banner {
+  margin: 0;
   text-align: center;
 }
 
-.home-slogan-hint {
+.home-intro .home-slogan-hint {
+  margin: 8px 0 0;
   color: #df0d56;
   text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  .home-intro {
+    margin: 20px 0 28px;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .home-intro {
+    margin: 16px 0 24px;
+  }
+}
+
+/* = = = = = = = = = = Bookmarks Page = = = = = = = = = = */
+.bookmark-page {
+  margin: 40px 0 80px;
+}
+
+.bookmark-header {
+  margin-bottom: 28px;
+  text-align: center;
+}
+
+.bookmark-header h1 {
+  margin: 0 0 10px;
+  font-size: 36px;
+  font-weight: 400;
+}
+
+.bookmark-header p {
+  margin: 0;
+  color: #999999;
+  font-size: 14px;
+}
+
+.bookmark-nav {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+      -ms-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  gap: 10px;
+  margin-bottom: 36px;
+}
+
+.bookmark-nav a {
+  padding: 6px 12px;
+  border: 1px solid #d9d9d9;
+  border-radius: 999px;
+  color: #311e3e;
+  font-size: 13px;
+  text-decoration: none;
+  -webkit-transition: all .2s;
+  transition: all .2s;
+}
+
+.bookmark-nav a:hover {
+  border-color: #311e3e;
+  background-color: #311e3e;
+  color: #fff;
+}
+
+.bookmark-section {
+  margin-bottom: 36px;
+}
+
+.bookmark-section h2 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: baseline;
+  -webkit-align-items: baseline;
+      -ms-flex-align: baseline;
+          align-items: baseline;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 0 14px;
+  padding-bottom: 8px;
+  border-bottom: 1px solid #d9d9d9;
+  font-size: 22px;
+  font-weight: 400;
+}
+
+.bookmark-section .bookmark-count {
+  color: #999999;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.bookmark-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0 18px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.bookmark-list li {
+  min-width: 0;
+}
+
+.bookmark-list a {
+  display: block;
+  padding: 7px 0;
+  overflow: hidden;
+  border-bottom: 1px dotted rgba(0, 0, 0, 0.08);
+  color: #3e3e40;
+  font-size: 14px;
+  text-decoration: none;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+.bookmark-list a:hover {
+  color: #87314e;
+}
+
+.bookmark-back-top {
+  display: block;
+  margin-top: 12px;
+  color: #999999;
+  font-size: 13px;
+  text-align: right;
+  text-decoration: none;
+}
+
+.bookmark-back-top:hover {
+  color: #87314e;
+}
+
+@media only screen and (max-width: 768px) {
+  .bookmark-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .bookmark-page {
+    margin: 24px 0 56px;
+  }
+  .bookmark-header h1 {
+    font-size: 28px;
+  }
+  .bookmark-section h2 {
+    font-size: 18px;
+  }
+  .bookmark-list {
+    grid-template-columns: 1fr;
+  }
 }

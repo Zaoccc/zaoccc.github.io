@@ -1,0 +1,131 @@
+.bookmark-page {
+  margin: 40px 0 80px;
+}
+
+.bookmark-header {
+  margin-bottom: 28px;
+  text-align: center;
+
+  h1 {
+    margin: 0 0 10px;
+    font-size: 36px;
+    font-weight: 400;
+  }
+
+  p {
+    margin: 0;
+    color: $light-gray;
+    font-size: 14px;
+  }
+}
+
+.bookmark-nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+  margin-bottom: 36px;
+
+  a {
+    padding: 6px 12px;
+    border: 1px solid $lighten-gray;
+    border-radius: 999px;
+    color: $dark-purple;
+    font-size: 13px;
+    text-decoration: none;
+    transition: all .2s;
+
+    &:hover {
+      border-color: $dark-purple;
+      background-color: $dark-purple;
+      color: $white;
+    }
+  }
+}
+
+.bookmark-section {
+  margin-bottom: 36px;
+
+  h2 {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    margin: 0 0 14px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid $lighten-gray;
+    font-size: 22px;
+    font-weight: 400;
+  }
+
+  .bookmark-count {
+    color: $light-gray;
+    font-size: 12px;
+    font-weight: 400;
+  }
+}
+
+.bookmark-list {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0 18px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+
+  li {
+    min-width: 0;
+  }
+
+  a {
+    display: block;
+    padding: 7px 0;
+    overflow: hidden;
+    border-bottom: 1px dotted rgba(0, 0, 0, .08);
+    color: $dark-gray;
+    font-size: 14px;
+    text-decoration: none;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+
+    &:hover {
+      color: $dark-pink;
+    }
+  }
+}
+
+.bookmark-back-top {
+  display: block;
+  margin-top: 12px;
+  color: $light-gray;
+  font-size: 13px;
+  text-align: right;
+  text-decoration: none;
+
+  &:hover {
+    color: $dark-pink;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .bookmark-list {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  .bookmark-page {
+    margin: 24px 0 56px;
+  }
+
+  .bookmark-header h1 {
+    font-size: 28px;
+  }
+
+  .bookmark-section h2 {
+    font-size: 18px;
+  }
+
+  .bookmark-list {
+    grid-template-columns: 1fr;
+  }
+}

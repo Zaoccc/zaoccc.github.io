@@ -26,7 +26,6 @@
   position: relative;
   margin-bottom: 30px;
   h1 {
-    font-family: 'Lato', sans-serif;
     font-weight: 400;
     font-size: 36px;
     text-align: center;
@@ -62,16 +61,35 @@
     }
   }
   .page-share {
-    a {
-      text-decoration: none;
-      color: $light-gray;
+    .share-link {
       margin-left: 10px;
-      font-size: 18px;
+      padding: 0;
+      border: 0;
+      background: none;
+      font: inherit;
+      color: $light-gray;
+      text-transform: none;
+      cursor: pointer;
+
       &:hover {
-        opacity: .8;
+        color: $dark-pink;
       }
     }
   }
+}
+
+.copy-toast {
+  position: absolute;
+  z-index: 1000000;
+  padding: 6px 10px;
+  border: 1px solid $lighten-gray;
+  border-radius: 2px;
+  background-color: rgba(255, 255, 255, .95);
+  color: $light-gray;
+  font-size: 13px;
+  white-space: nowrap;
+  pointer-events: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, .08);
 }
 
 .recent-box {
@@ -79,7 +97,6 @@
   padding-bottom: 30px;
   border-bottom: 1px solid $lighten-gray;
   .recent-title {
-    font-family: 'Lato', sans-serif;
     font-weight: 400;
     color: $dark-purple;
     text-align: center;
