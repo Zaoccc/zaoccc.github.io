@@ -966,15 +966,6 @@ pre code {
   color: #87314e;
 }
 
-.main-nav ul li.menu-label {
-  padding: 15px 0 8px;
-  border-bottom: 0;
-  color: #999999;
-  font-size: 12px;
-  letter-spacing: .08em;
-  text-transform: uppercase;
-}
-
 .text-accent {
   color: #df0d56;
 }
@@ -1721,7 +1712,6 @@ pre code {
 .home-slogan {
   font-weight: 700;
   color: #de1c31;
-  font-family: cursive;
   text-align: center;
 }
 
@@ -1730,8 +1720,6 @@ pre code {
 }
 
 .home-slogan-hint {
-  font-size: .83em;
-  font-weight: 700;
   color: #df0d56;
   text-align: center;
 }
