@@ -1,16 +1,18 @@
 <div class="search-box">
   <div class="wrapper">
     <div class="search-grid">
-      <form class="search-form">
+      <form class="search-form" role="search">
         <div id="search-container">
-          <input type="text" id="search-input" class="search" placeholder="Search">
-   
-    
-</div>
+          <input type="text" id="search-input" class="search" placeholder="Search" aria-label="搜索文章">
+        </div>
       </form>
+
       <ul id="results-container" class="results-search"></ul>
+
       <div class="icon-close-container">
-        <span class="search-icon-close"><i class="fa fa-times" aria-hidden="true"></i></span>
+        <span class="search-icon-close" aria-label="关闭搜索">
+          <i class="fa fa-times" aria-hidden="true"></i>
+        </span>
       </div>
     </div>
   </div>

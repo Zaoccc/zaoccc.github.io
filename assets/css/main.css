@@ -966,6 +966,19 @@ pre code {
   color: #87314e;
 }
 
+.main-nav ul li.menu-label {
+  padding: 15px 0 8px;
+  border-bottom: 0;
+  color: #999999;
+  font-size: 12px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.text-accent {
+  color: #df0d56;
+}
+
 .menu-icon-container {
   width: 25%;
   text-align: left;
@@ -1182,6 +1195,20 @@ pre code {
   font-size: 16px;
 }
 
+.music-player {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  z-index: 9999;
+  pointer-events: none;
+}
+
+.music-player iframe {
+  pointer-events: auto;
+}
+
 /* = = = = = = = = = = Post-Page Styles = = = = = = = = = = */
 .page-image {
   position: relative;
@@ -1233,7 +1260,6 @@ pre code {
 
 .page-footer {
   margin-top: 30px;
-  padding-bottom: 30px;
   padding-bottom: 30px;
   border-bottom: 1px solid #d9d9d9;
 }
@@ -1304,94 +1330,6 @@ pre code {
 
 .recent-box .recent-list .recent-item:hover {
   opacity: 0.8;
-}
-
-.newsletter {
-  text-align: center;
-  margin-top: 30px;
-  padding-bottom: 60px;
-  margin-bottom: 30px;
-  border-bottom: 1px solid #efefef;
-}
-
-.newsletter .newsletter-title {
-  font-weight: 400;
-}
-
-.newsletter .form-container {
-  padding: 30px;
-  background-color: #efefef;
-  width: 720px;
-  max-width: 100%;
-  margin: 0 auto;
-}
-
-.newsletter .form-container p {
-  margin: 0;
-}
-
-.newsletter .screen-reader-text {
-  clip: rect(1px, 1px, 1px, 1px);
-  height: 1px;
-  overflow: hidden;
-  position: absolute !important;
-  width: 1px;
-  word-wrap: normal !important;
-}
-
-.newsletter .newsletter-box {
-  position: relative;
-  max-width: 100%;
-  margin: 25px 0;
-  display: -webkit-box;
-  display: -webkit-flex;
-  display: -ms-flexbox;
-  display: flex;
-  -webkit-box-align: stretch;
-  -webkit-align-items: stretch;
-      -ms-flex-align: stretch;
-          align-items: stretch;
-}
-
-.newsletter .newsletter-box .email-input {
-  -webkit-box-flex: 1;
-  -webkit-flex-grow: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
-  height: 40px;
-  padding: 8px 10px;
-  width: 100%;
-  max-width: 100%;
-  color: #3e3e40;
-  border: none;
-  -webkit-border-radius: 2px;
-          border-radius: 2px;
-  font-size: 14px;
-  outline: none;
-}
-
-.newsletter .newsletter-box .subscribe-btn {
-  -webkit-flex-shrink: 0;
-      -ms-flex-negative: 0;
-          flex-shrink: 0;
-  width: 100px;
-  height: 40px;
-  font-size: 14px;
-  text-align: center;
-  color: #fff;
-  background-color: #311e3e;
-  vertical-align: baseline;
-  cursor: pointer;
-  border: none;
-  -webkit-border-radius: 2px;
-          border-radius: 2px;
-  outline: none;
-  -webkit-transition: all .3s;
-  transition: all .3s;
-}
-
-.newsletter .newsletter-box .subscribe-btn:hover {
-  background-color: #87314e;
 }
 
 /* = = = = = = = = = = Author Box Styles = = = = = = = = = = */
@@ -1709,11 +1647,6 @@ pre code {
     bottom: 10%;
     color: #fff;
   }
-  .newsletter .newsletter-box .subscribe-btn {
-    width: 80px;
-    height: 40px;
-    font-size: 12px;
-  }
   .about-body .contact-list li {
     display: inline-block;
     margin-left: 5px;
@@ -1783,3 +1716,22 @@ pre code {
   width: 100%;
   height: 100%;
   }
+
+/* = = = = = = = = = = Home Page = = = = = = = = = = */
+.home-slogan {
+  font-weight: 700;
+  color: #de1c31;
+  font-family: cursive;
+  text-align: center;
+}
+
+.home-banner {
+  text-align: center;
+}
+
+.home-slogan-hint {
+  font-size: .83em;
+  font-weight: 700;
+  color: #df0d56;
+  text-align: center;
+}

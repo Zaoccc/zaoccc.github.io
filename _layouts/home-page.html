@@ -3,19 +3,28 @@ layout: default
 ---
 <div class="flex-container">
   {% include header.html %}
-  <!-- 广告位1 -->
+
   <section class="about-container">
-    <div style="z-index:-1;"><h1 align="center"><font color="#de1c31" font-family="cursive"><strong>
-      - 富强 - 民主 - 文明 - 和谐 -</br>
-      - 自由 - 平等 - 公正 - 法治 -</br>
-      - 爱国 - 敬业 - 诚信 - 友善 -</strong></font></h1></div>
-    <a href="{{site.baseurl}}/about"><p style="text-align: center;"><img src="/assets/img/headimg1.jpg" width="660" height="270"></p></a>
-    <div style="z-index:-1;"><h5 align="center"><font color="#df0d56">↑ ♥Click to about♥ ↑</font></h5></div>
+    <h1 class="home-slogan">
+      - 富强 - 民主 - 文明 - 和谐 -<br>
+      - 自由 - 平等 - 公正 - 法治 -<br>
+      - 爱国 - 敬业 - 诚信 - 友善 -
+    </h1>
+
+    <a href="{{ site.baseurl }}/about">
+      <p class="home-banner">
+        <img src="{{ '/assets/img/headimg1.jpg' | prepend: site.baseurl }}" width="660" height="270" alt="进入关于页">
+      </p>
+    </a>
+
+    <p class="home-slogan-hint">↑ ♥Click to about♥ ↑</p>
   </section>
+
   <div class="content wrapper">
     {{ content }}
-  {% include search.html %}
-  {% include pagination.html %}
-  </div> <!-- End Wrapper -->
+    {% include search.html %}
+    {% include pagination.html %}
+  </div>
+
   {% include footer.html %}
 </div>

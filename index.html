@@ -5,17 +5,22 @@ layout: home-page
   {% for post in paginator.posts %}
   <li>
     <div class="post-card">
-      <a href="{{post.url | prepend: site.baseurl}}" class="post-card-image" style="background-image: url( {{ "/assets/img/" | prepend: site.baseurl | append : post.img}} )">
-      </a>
+      {% if post.img %}
+      <a href="{{ post.url | prepend: site.baseurl }}"
+         class="post-card-image"
+         style="background-image: url('{{ '/assets/img/' | append: post.img | prepend: site.baseurl }}')"></a>
+      {% endif %}
+
       <div class="post-card-body">
         {% for tag in post.tags %}
-        <a href="{{site.baseurl}}/tags#{{tag}}" class="tag">|&#32;{{ tag }}</a>
+        <a href="{{ site.baseurl }}/tags#{{ tag }}" class="tag">|&#32;{{ tag }}</a>
         {% endfor %}
-        <a href="{{post.url | prepend: site.baseurl}}" class="post-card-link"><h3 class="post-card-title">{{post.title}}</h3></a>
-      </div>
 
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-card-link">
+          <h3 class="post-card-title">{{ post.title }}</h3>
+        </a>
+      </div>
     </div>
   </li>
   {% endfor %}
 </ol>
-<div id="gitalk-container"></div>

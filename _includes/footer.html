@@ -1,17 +1,16 @@
 <footer class="main-footer">
-
-
   <div class="copyright">
-    <p>{{site.time | date: '%Y'}} &copy; {{site.author}} Starting at 2022</p>
+    <p>{{ site.time | date: '%Y' }} &copy; {{ site.author }} Starting at 2022</p>
+    <a href="https://qm.qq.com/cgi-bin/qm/qr?k=MKKIoE1fcITIi9M9Sxm0jna-YKJhwHyR&amp;noverify=0"
+       target="_blank" rel="noopener noreferrer" aria-label="QQ">
+      <i class="fa fa-qq fa-lg" aria-hidden="true"></i>
+    </a>
+  </div>
 
-<a href="https://qm.qq.com/cgi-bin/qm/qr?k=MKKIoE1fcITIi9M9Sxm0jna-YKJhwHyR&noverify=0"><i class="fa fa-qq fa-lg"></i></a>
-<div> 
-<span> </span>
-<div style=" position:fixed; left:0px; bottom:0px; width:100%; height:50px; z-index:9999;">
- 
-  <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=298 height=52 src="//{{site.163music}}" position="absolute" z-index="1001"></iframe>
-
-</div>
-  
-  
-</footer> <!-- End Footer -->
+  {% if site.163music %}
+  <div class="music-player">
+    <iframe frameborder="no" border="0" marginwidth="0" marginheight="0"
+            width="298" height="52" title="网易云音乐播放器" src="https://{{ site.163music }}"></iframe>
+  </div>
+  {% endif %}
+</footer>

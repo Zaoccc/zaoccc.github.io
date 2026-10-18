@@ -1,46 +1,49 @@
 $(function () {
-  // Cache variables for increased performance on devices with slow CPUs.
-  var flexContainer = $('div.flex-container')
-  var searchBox = $('.search-box')
-  var searchClose = $('.search-icon-close')
-  var searchInput = $('#search-input')
+  'use strict';
 
-  // Menu Settings
-  $('.menu-icon, .menu-icon-close').click(function (e) {
-    e.preventDefault()
-    e.stopPropagation()
-    flexContainer.toggleClass('active')
-  })
+  var $flexContainer = $('.flex-container');
+  var $searchBox = $('.search-box');
+  var $searchInput = $('#search-input');
 
-  // Click outside of menu to close it
-  flexContainer.click(function (e) {
-    if (flexContainer.hasClass('active') && e.target.tagName !== 'A') {
-      flexContainer.removeClass('active')
+  // 侧边菜单：打开 / 关闭
+  $('.menu-icon, .menu-icon-close').on('click', function (event) {
+    event.preventDefault();
+    event.stopPropagation();
+    $flexContainer.toggleClass('active');
+  });
+
+  // 点击菜单以外的区域时收起菜单
+  $flexContainer.on('click', function (event) {
+    if ($flexContainer.hasClass('active') && !$(event.target).closest('a').length) {
+      $flexContainer.removeClass('active');
     }
-  })
+  });
 
-  // Press Escape key to close menu
-  $(window).keydown(function (e) {
-    if (e.key === 'Escape') {
-      if (flexContainer.hasClass('active')) {
-        flexContainer.removeClass('active')
-      } else if (searchBox.hasClass('search-active')) {
-        searchBox.removeClass('search-active')
-      }
+  // Esc 优先关闭菜单，其次关闭搜索
+  $(window).on('keydown', function (event) {
+    if (event.key !== 'Escape') {
+      return;
     }
-  })
 
-  // Search Settings
-  $('.search-icon').click(function (e) {
-    e.preventDefault()
-    searchBox.toggleClass('search-active')
-    searchInput.focus()
-
-    if (searchBox.hasClass('search-active')) {
-      searchClose.click(function (e) {
-    		e.preventDefault()
-    		searchBox.removeClass('search-active')
-    	})
+    if ($flexContainer.hasClass('active')) {
+      $flexContainer.removeClass('active');
+    } else if ($searchBox.hasClass('search-active')) {
+      $searchBox.removeClass('search-active');
     }
-  })
-})
+  });
+
+  // 搜索面板
+  $('.search-icon').on('click', function (event) {
+    event.preventDefault();
+    $searchBox.toggleClass('search-active');
+
+    if ($searchBox.hasClass('search-active')) {
+      $searchInput.trigger('focus');
+    }
+  });
+
+  $('.search-icon-close').on('click', function (event) {
+    event.preventDefault();
+    $searchBox.removeClass('search-active');
+  });
+});
