@@ -1538,7 +1538,6 @@ pre code {
 }
 
 /* = = = = = = = = = = Animate Styles = = = = = = = = = = */
-.main-header,
 .page-image,
 .page-content,
 .about-container,
@@ -1551,7 +1550,6 @@ pre code {
           animation-name: fadeInDown;
 }
 
-.main-header,
 .page-image {
   -webkit-animation-delay: 0.5s;
           animation-delay: 0.5s;
